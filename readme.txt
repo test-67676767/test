@@ -1,0 +1,1 @@
+donut.exe -i [filename] -a 2 -f 6 -o scodecp.ps1
